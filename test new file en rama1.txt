@@ -1,0 +1,2 @@
+este es un archivo creado en vs code sobre rama1
+por lo tanto no existe en rama main
